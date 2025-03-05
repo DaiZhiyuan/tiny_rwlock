@@ -1,6 +1,6 @@
 # tiny_rwlock
 
-rwlock implementation(From Linux)
+rwlock implementation(From [Linux](https://elixir.bootlin.com/linux/v4.14.336/source/arch/arm64/include/asm/spinlock.h#L228)])
 
 ## LL/SC（Load-Link/Store-Conditional）
 
